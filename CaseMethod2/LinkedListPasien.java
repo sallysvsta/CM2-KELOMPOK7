@@ -17,7 +17,7 @@ public class LinkedListPasien {
 
     public void tampilkanAntrian() {
         if (head == null) {
-            System.out.println(">> Tidak ada pasien dalam antrian.");
+            System.out.println(">> Belum ada antrian!.");
             return;
         }
 
