@@ -1,10 +1,11 @@
 package CaseMethod2;
+
 public class Dokter {
     String idDokter;
     String nama;
 
-    public Dokter(String id, String nama) {
-        this.idDokter = id;
+    public Dokter(String idDokter, String nama) {
+        this.idDokter = idDokter;
         this.nama = nama;
-    }
+}
 }

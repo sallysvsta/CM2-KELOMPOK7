@@ -1,4 +1,5 @@
 package CaseMethod2;
+
 public class NodePasien {
     Pasien data;
     NodePasien next;
